@@ -1,0 +1,4 @@
+.list-group-item.disabled{
+    text-decoration: line-through;
+    pointer-events: all;
+}
